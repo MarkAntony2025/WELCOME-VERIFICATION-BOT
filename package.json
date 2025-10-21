@@ -1,0 +1,17 @@
+{
+  "name": "discord-verification-bot",
+  "version": "1.0.0",
+  "description": "A Discord verification bot with 2-role verification, banner, and admin commands",
+  "main": "Allinone.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Allinone.js"
+  },
+  "author": "ANTONY",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "express": "^5.1.0"
+  }
+}
